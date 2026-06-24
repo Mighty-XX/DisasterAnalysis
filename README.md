@@ -47,4 +47,4 @@ Dự án được thiết kế theo mô hình **Kiến trúc Phân tầng (Layer
 ### Các bước cài đặt
 1. **Clone repository này về máy:**
    ```bash
-   git clone [https://github.com/](https://github.com/)Mighty-XX/DisasterAnalysis.git
+   git clone https://github.com/Mighty-XX/DisasterAnalysis.git
